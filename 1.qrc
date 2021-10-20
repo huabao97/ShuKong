@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>左箭头.png</file>
+    <file>右箭头.png</file>
+    <file>箭头.png</file>
+    <file>1.jfif</file>
+    <file>箭头 (9).png</file>
+    <file>箭头 (8).png</file>
+    <file>箭头 (7).png</file>
+    <file>箭头 (6).png</file>
+    <file>箭头 (4).png</file>
+    <file>箭头 (2).png</file>
+    <file>箭头 (1).png</file>
+    <file>箭头.png</file>
+    <file>按钮.png</file>
+    <file>2.jpeg</file>
+  </qresource>
+</RCC>
